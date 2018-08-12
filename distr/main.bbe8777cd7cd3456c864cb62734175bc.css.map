@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///webpack:///src/index.css"],"names":[],"mappings":"AAAA,KACC,mBAAqB,CAEtB,SACC,YAAa","file":"main.bbe8777cd7cd3456c864cb62734175bc.css","sourcesContent":["body {\r\n\tfont-family: Verdana;\r\n}\r\nTable th {\r\n\tpadding: 15px\r\n}\n\n\n/** WEBPACK FOOTER **\n ** webpack:///src/index.css\n **/"],"sourceRoot":""}
